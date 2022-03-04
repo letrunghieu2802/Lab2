@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">bài tập Lab2</string>
+    <string name="save">Save</string>
+    <string name="singer">Singer</string>
+    <string name="song">Song</string>
+    <string name="soundcloud">Soundcloud</string>
+    <string name="enter_the_name">Enter the name</string>
+    <string name="enter_the_singer">Enter the singer</string>
+</resources>
